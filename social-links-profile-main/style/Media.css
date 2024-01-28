@@ -1,0 +1,18 @@
+@media (width > 375px){
+    div.card{
+        font-size: 14px;
+        height: 550px;
+        width: 350px;
+    }
+    div.card > img{
+        margin: 10px;
+    }
+    div.itemProfesion, div.itemName{
+     margin: 8px;
+     /* font-size:1 ; */
+    }
+    div.item{
+        padding: 15px;
+        width: 90%;
+    }
+}
